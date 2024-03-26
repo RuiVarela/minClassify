@@ -6,5 +6,7 @@ This is a collection of machine learning experiments
 - [minClassify](minClassify/Readme.md) is a barebone classifier training skeleton
 - [FaceKeypoints](FaceKeypoints/Readme.md) Facial keypoints detector
 - [TennisKeypoints](TennisKeypoints/Readme.md) Tennis field keypoints detector
+- [BallTracking](FootballUltralytics/Readme.md) Train a ball detector for tennis
 - [DocumentKeypoints](DocumentKeypoints/Readme.md) Documents keypoints detector
 - [FootballUltralytics](FootballUltralytics/Readme.md) Train a objects detector on football content
+
